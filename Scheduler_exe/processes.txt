@@ -1,0 +1,11 @@
+ # <OwnerID> <start> <duration> <type>  , where <type> stands for <os | interactive | batch | background | foreground>
+ 00 00 10 os
+ 01 20 120 interactive
+ 02 20 100 batch
+ 03 40 150 foreground
+ 04 50 60 background
+ 05 500 90 background
+ 06 650 100 interactive
+ 07 7000 150 interactive
+ 08 7200 100 foreground
+ 09 7400 100 batch

@@ -1,0 +1,9 @@
+﻿  core.c
+  dispatcher.c
+  log.c
+  main.c
+  processcontrol.c
+  scheduler.c
+  simruntime.c
+  Code wird generiert...
+  Scheduling.vcxproj -> D:\Users\Ole\Academic\FHL\Lehre\2022-WS_Betriebssysteme\Praktikum\Scheduling\Debug\Scheduling.exe
